@@ -37,17 +37,17 @@ Useful information about LLM and its environment is collected here
 
 ## Quantization
 
-0. many years ago (classic)
-1. 2000
-2. 2021
-3. 2022
-4. 2023
+### Many years ago (classic)
+### 2020
+### 2021
+### 2022
+### 2023
  - SmoothQuant
  - AWQ: Activation-aware Weight Quantization for LLM compression and acceleration ([github](https://github.com/mit-han-lab/llm-awq))
  - Outlier suppression: pushing the limit of low-bit transformer language models ([github](https://github.com/wimh966/outlier_suppression))
  - GPTQ: accurate post-training quantization for generative pre-trained transformers ([github](https://github.com/IST-DASLab/gptq))
  - The case for 4-bit precision: k-bit inference scaling laws
-5. 2024
+### 2024
 
 ## Performance benchmark
 
