@@ -10,6 +10,7 @@ Useful information about LLM and its environment is collected here
 
 1. [LangChain](https://github.com/langchain-ai/langchain) is a framework for developing applications powered by large language models (LLMs)
 2. [FireOptimizer](https://fireworks.ai/blog/fireoptimizer?utm_source=newsletter&utm_medium=email&utm_campaign=2024september)
+3. [TVM](https://github.com/apache/tvm)
 
 # Common information in tutorials and blogs
 
@@ -26,11 +27,24 @@ Useful information about LLM and its environment is collected here
 
 # Papers
 
+## Common
+
+1. [LLM-eval-survey](https://github.com/MLGroupJLU/LLM-eval-survey)
+
 ## Transformer and attention concepts
 
 ## Optimization concepts
 
 ## Quantization
+
+0. many years ago (classic)
+1. 2000
+2. 2021
+3. 2022
+4. 2023
+ - Outlier suppression: pushing the limit of low-bit transformer language models
+ - GPTQ: accurate post-training quantization for generative pre-trained transformers
+5. 2024
 
 ## Performance benchmark
 
