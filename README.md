@@ -28,12 +28,15 @@ Useful information about LLM and its environment is collected here
 # Papers
 
 ## Common
-
 1. [LLM-eval-survey](https://github.com/MLGroupJLU/LLM-eval-survey)
+2. Orca: a distributed serving system for transformer-based generative models
 
 ## Transformer and attention concepts
 
 ## Optimization concepts
+1. Speculative decoding
+ - LayerSkip: enabling early exit inference and self-speculative decoding
+2. YOCO: [You Only Cache Once: decoder-decoder architectures for language models]()
 
 ## Quantization
 
@@ -47,8 +50,9 @@ Useful information about LLM and its environment is collected here
 1. SmoothQuant
 2. AWQ: Activation-aware Weight Quantization for LLM compression and acceleration ([github](https://github.com/mit-han-lab/llm-awq))
 3. Outlier suppression: pushing the limit of low-bit transformer language models ([github](https://github.com/wimh966/outlier_suppression))
-4. GPTQ: accurate post-training quantization for generative pre-trained transformers ([github](https://github.com/IST-DASLab/gptq))
-5. The case for 4-bit precision: k-bit inference scaling laws
+4. Outlier suppression+: accurate quantization of large language models by equivalent and effective shifting and scaling ([github](https://github.com/ModelTC/Outlier_Suppression_Plus))
+5. GPTQ: accurate post-training quantization for generative pre-trained transformers ([github](https://github.com/IST-DASLab/gptq))
+6. The case for 4-bit precision: k-bit inference scaling laws
 
 ### 2024
 
@@ -56,7 +60,7 @@ Useful information about LLM and its environment is collected here
 
 ## Accuracy benchmark
 
-1. HELM: Holistic Evaluation of Language Models ([github](https://github.com/stanford-crfm/helm))
+1. HELM: [Holistic Evaluation of Language Models]() ([github](https://github.com/stanford-crfm/helm))
 
 ## Other benchmarks
 
