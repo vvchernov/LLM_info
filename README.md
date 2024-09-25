@@ -29,14 +29,17 @@ Useful information about LLM and its environment is collected here
 
 ## Common
 1. [LLM-eval-survey](https://github.com/MLGroupJLU/LLM-eval-survey)
-2. Orca: a distributed serving system for transformer-based generative models
+2. [Awesome-Quantization-Papers](https://github.com/Zhen-Dong/Awesome-Quantization-Papers)
+3. Orca: a distributed serving system for transformer-based generative models
 
 ## Transformer and attention concepts
 
 ## Optimization concepts
 1. Speculative decoding
  - LayerSkip: enabling early exit inference and self-speculative decoding
+ - Multi-Candidate Speculative Decoding
 2. YOCO: [You Only Cache Once: decoder-decoder architectures for language models]()
+3. Tandem Transformers for Inference Efficient LLMs
 
 ## Quantization
 
@@ -55,6 +58,8 @@ Useful information about LLM and its environment is collected here
 6. The case for 4-bit precision: k-bit inference scaling laws
 
 ### 2024
+1. Efficient post-training quantization with fp8 formats
+2. OmniQuant: Omnidirectionally calibrated quantization for large language models
 
 ## Performance benchmark
 
