@@ -26,5 +26,5 @@ Useful information about LLM and its environment is collected here
 1. [LLM evals and benchmarking](https://osanseviero.github.io/hackerllama/blog/posts/llm_evals/)
 
 # Papers
-[Raw list](https://github.com/vvchernov/LLM_info/blob/main/papers/README.md) of papers sorted by general topics
+[Raw list](https://github.com/vvchernov/LLM_info/blob/main/papers/README.md) of papers sorted by general topics<br />
 [Brief description and analysis](https://github.com/vvchernov/LLM_info/blob/main/papers/desc.md) of current state based on the papers
