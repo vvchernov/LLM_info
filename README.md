@@ -50,9 +50,12 @@ Useful information about LLM and its environment is collected here
 
 ### 2020
 ### 2021
+1. BRECQ: PUSHING THE LIMIT OF POST - TRAINING QUANTIZATION BY BLOCK RECONSTRUCTION ([github](https://github.com/yhhhli/BRECQ))
+2. HAWQ-V3: Dyadic Neural Network Quantization ([github](https://github.com/zhen-dong/hawq.git))
+
 ### 2022
 ### 2023
-1. SmoothQuant
+1. SmoothQuant: accurate and efficient post-training quantization for large language models ([github](https://github.com/mit-han-lab/smoothquant))
 2. [AWQ: Activation-aware Weight Quantization for LLM compression and acceleration](https://github.com/vvchernov/LLM_info/blob/main/papers/compression/quantization/AWQ.pdf) ([github](https://github.com/mit-han-lab/llm-awq))
 3. [Outlier suppression: pushing the limit of low-bit transformer language models](https://github.com/vvchernov/LLM_info/blob/main/papers/compression/quantization/OutlierSuppression.pdf) ([github](https://github.com/wimh966/outlier_suppression))
 4. [Outlier suppression+: accurate quantization of large language models by equivalent and effective shifting and scaling](https://github.com/vvchernov/LLM_info/blob/main/papers/compression/quantization/OutlierSuppresion_plus.pdf) ([github](https://github.com/ModelTC/Outlier_Suppression_Plus))
