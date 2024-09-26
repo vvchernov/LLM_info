@@ -3,8 +3,9 @@ Useful information about LLM and its environment is collected here
 
 # Open source projects
 
-1. [GGML](https://github.com/ggerganov/ggml): tensor library for machine learning
-2. [Medusa](https://github.com/FasterDecoding/Medusa) is a simple framework that democratizes the acceleration techniques for LLM generation with multiple decoding heads.
+1. [DeepSpeed](https://github.com/microsoft/DeepSpeed)
+2. [GGML](https://github.com/ggerganov/ggml): tensor library for machine learning
+3. [Medusa](https://github.com/FasterDecoding/Medusa) is a simple framework that democratizes the acceleration techniques for LLM generation with multiple decoding heads.
 
 # Frameworks
 

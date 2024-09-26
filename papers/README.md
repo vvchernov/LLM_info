@@ -4,6 +4,7 @@
 1. [LLM-eval-survey](https://github.com/MLGroupJLU/LLM-eval-survey)
 2. [Awesome-Quantization-Papers](https://github.com/Zhen-Dong/Awesome-Quantization-Papers)
 3. [Orca: a distributed serving system for transformer-based generative models](https://github.com/vvchernov/LLM_info/blob/main/papers/common/Orca.pdf)
+4. [Understanding int4 quantization for transformer models: latency speedup, composability, and failure cases](https://github.com/vvchernov/LLM_info/blob/main/papers/common/Int4_quantization.pdf)
 
 ## Transformer and attention concepts
 
@@ -27,6 +28,8 @@
 2. [HAWQ-V3: dyadic neural network quantization](https://github.com/vvchernov/LLM_info/blob/main/papers/compression/quantization/HAWQ-v3.pdf) ([github](https://github.com/zhen-dong/hawq.git))
 
 ### 2022
+1. [ZeroQuant: efficient and affordable post-training quantization for large-scale transformers](https://github.com/vvchernov/LLM_info/blob/main/papers/compression/quantization/ZeroQuant.pdf) (implemented in [DeepSpeed](https://github.com/microsoft/DeepSpeed))
+
 ### 2023
 1. [SmoothQuant: accurate and efficient post-training quantization for large language models](https://github.com/vvchernov/LLM_info/blob/main/papers/compression/quantization/SmoothQuant.pdf) ([github](https://github.com/mit-han-lab/smoothquant))
 2. [AWQ: Activation-aware Weight Quantization for LLM compression and acceleration](https://github.com/vvchernov/LLM_info/blob/main/papers/compression/quantization/AWQ.pdf) ([github](https://github.com/mit-han-lab/llm-awq))
@@ -36,6 +39,7 @@
 6. [SpQR: A Sparse-Quantized Representation for near-lossless LLM weight compression](https://github.com/vvchernov/LLM_info/blob/main/papers/compression/quantization/SpQR.pdf)
 7. [The case for 4-bit precision: k-bit inference scaling laws](https://github.com/vvchernov/LLM_info/blob/main/papers/compression/quantization/kbit-inference-scaling-laws.pdf)
 8. [Enhancing computation efficiency in large language models through weight and activation quantization](https://github.com/vvchernov/LLM_info/blob/main/papers/compression/quantization/aqas_slac.pdf)
+9. [MixQuant: A Quntization bit-width search that can optimize the performance of your quantization method](https://github.com/vvchernov/LLM_info/blob/main/papers/compression/quantization/MixQuant.pdf)
 
 ### 2024
 1. [Efficient post-training quantization with fp8 formats](https://github.com/vvchernov/LLM_info/blob/main/papers/compression/quantization/fp8_ptq.pdf)
