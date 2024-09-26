@@ -3,9 +3,10 @@ Useful information about LLM and its environment is collected here
 
 # Open source projects
 
-1. [DeepSpeed](https://github.com/microsoft/DeepSpeed)
-2. [GGML](https://github.com/ggerganov/ggml): tensor library for machine learning
-3. [Medusa](https://github.com/FasterDecoding/Medusa) is a simple framework that democratizes the acceleration techniques for LLM generation with multiple decoding heads.
+1. [vLLM](https://github.com/vllm-project/vllm): a fast and easy-to-use library for LLM inference and serving ([blog](https://blog.vllm.ai/2023/06/20/vllm.html))
+2. [DeepSpeed](https://github.com/microsoft/DeepSpeed): a deep learning optimization library that makes distributed training easy, efficient, and effective
+3. [GGML](https://github.com/ggerganov/ggml): tensor library for machine learning
+4. [Medusa](https://github.com/FasterDecoding/Medusa) is a simple framework that democratizes the acceleration techniques for LLM generation with multiple decoding heads.
 
 # Frameworks
 
