@@ -27,7 +27,7 @@ Useful information about LLM and its environment is collected here
 
 # Papers
 
-## Common
+## Overviews and common concepts
 1. [LLM-eval-survey](https://github.com/MLGroupJLU/LLM-eval-survey)
 2. [Awesome-Quantization-Papers](https://github.com/Zhen-Dong/Awesome-Quantization-Papers)
 3. Orca: a distributed serving system for transformer-based generative models
@@ -40,11 +40,13 @@ Useful information about LLM and its environment is collected here
  - Multi-Candidate Speculative Decoding
 2. YOCO: [You Only Cache Once: decoder-decoder architectures for language models]()
 3. Tandem Transformers for Inference Efficient LLMs
+4. Fast inference of Mixture-of-Experts language models with offloading
 
 ## Quantization
 
 ### Many years ago (classic)
 1. Quantization and training of neural networks for efficient integer-arithmetic-only inference
+2. Pointer Sentinel Mixture Models
 
 ### 2020
 ### 2021
@@ -55,7 +57,9 @@ Useful information about LLM and its environment is collected here
 3. Outlier suppression: pushing the limit of low-bit transformer language models ([github](https://github.com/wimh966/outlier_suppression))
 4. Outlier suppression+: accurate quantization of large language models by equivalent and effective shifting and scaling ([github](https://github.com/ModelTC/Outlier_Suppression_Plus))
 5. GPTQ: accurate post-training quantization for generative pre-trained transformers ([github](https://github.com/IST-DASLab/gptq))
-6. The case for 4-bit precision: k-bit inference scaling laws
+6. SpQR: A Sparse-Quantized Representation for near-lossless LLM weight compression
+7. The case for 4-bit precision: k-bit inference scaling laws
+8. Enhancing computation efficiency in large language models through weight and activation quantization
 
 ### 2024
 1. Efficient post-training quantization with fp8 formats
