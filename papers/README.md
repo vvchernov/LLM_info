@@ -9,7 +9,7 @@
 ## Transformer and attention concepts
 
 ## Optimization concepts
-1. Speculative decoding
+1. Speculative Decoding:
  - [Fast inference from transformers via Speculative Decoding](https://github.com/vvchernov/LLM_info/blob/main/papers/optimization/speculative_decoding/speculative_decoding.pdf)
  - [Accelerating LLM inference with Staged Speculative Decoding](https://github.com/vvchernov/LLM_info/blob/main/papers/optimization/speculative_decoding/speculative_decoding_staged.pdf)
  - [DistilSpec: improving Speculative Decoding via knowledge distillation](https://github.com/vvchernov/LLM_info/blob/main/papers/optimization/speculative_decoding/speculative_decoding_distillation.pdf)
@@ -57,4 +57,5 @@
 
 ## Other benchmarks
 
-## LLM tech documents
+## LLM technical documents
+ 1. [PaLM: Scaling Language Modeling with Pathways](https://github.com/vvchernov/LLM_info/blob/main/papers/llms/PaLM.pdf)
