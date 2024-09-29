@@ -7,7 +7,7 @@
 ## Common concepts
 ### Serving
 1. [Orca: a distributed serving system for transformer-based generative models](https://github.com/vvchernov/LLM_info/blob/main/papers/common/Orca.pdf)
-2. [Efficient Memory Management for Large Language Model Serving with PagedAttention]() ([vLLM](https://github.com/vllm-project/vllm))
+2. [Efficient Memory Management for Large Language Model Serving with PagedAttention](https://github.com/vvchernov/LLM_info/blob/main/papers/common/PagedAttention.pdf) ([vLLM](https://github.com/vllm-project/vllm))
 
 ### Quantization
 1. [Understanding int4 quantization for transformer models: latency speedup, composability, and failure cases](https://github.com/vvchernov/LLM_info/blob/main/papers/common/Int4_quantization.pdf)
