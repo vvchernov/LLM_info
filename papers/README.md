@@ -1,10 +1,16 @@
 # Papers
 
-## Overviews and common concepts
+## Overviews
 1. [LLM-eval-survey](https://github.com/MLGroupJLU/LLM-eval-survey)
 2. [Awesome-Quantization-Papers](https://github.com/Zhen-Dong/Awesome-Quantization-Papers)
-3. [Orca: a distributed serving system for transformer-based generative models](https://github.com/vvchernov/LLM_info/blob/main/papers/common/Orca.pdf)
-4. [Understanding int4 quantization for transformer models: latency speedup, composability, and failure cases](https://github.com/vvchernov/LLM_info/blob/main/papers/common/Int4_quantization.pdf)
+
+## Common concepts
+### Serving
+1. [Orca: a distributed serving system for transformer-based generative models](https://github.com/vvchernov/LLM_info/blob/main/papers/common/Orca.pdf)
+2. [Efficient Memory Management for Large Language Model Serving with PagedAttention]() ([vLLM](https://github.com/vllm-project/vllm))
+
+### Quantization
+1. [Understanding int4 quantization for transformer models: latency speedup, composability, and failure cases](https://github.com/vvchernov/LLM_info/blob/main/papers/common/Int4_quantization.pdf)
 
 ## Transformer and attention concepts
 
