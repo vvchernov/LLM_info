@@ -1,8 +1,9 @@
 # Papers
 
-## Overviews
+## Surveys
 1. [LLM-eval-survey](https://github.com/MLGroupJLU/LLM-eval-survey)
 2. [Awesome-Quantization-Papers](https://github.com/Zhen-Dong/Awesome-Quantization-Papers)
+3. [DL Compilers survey](https://github.com/vvchernov/LLM_info/blob/main/papers/surveys/DL_compilers_survey.pdf)
 
 ## Common concepts
 ### Serving
