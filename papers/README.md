@@ -59,12 +59,12 @@
 
 ## Accuracy benchmark
 ### Datasets
-1. MMLU: [Measuring Massive Multitask language Understanding](): MMLU
-2. BIG-bench (BB): [Beyond the Imitation Game: quantifying and extrapolating the capapbilities of language models]()
-3. BIG-bench Hard (BBH): [Challenging BIG-Bench tasks and whether chain-of-thoughts can solve them]()
+1. MMLU: [Measuring Massive Multitask language Understanding](https://github.com/vvchernov/LLM_info/blob/main/papers/benchmark/Accuracy/MMLU.pdf): MMLU
+2. BIG-bench (BB): [Beyond the Imitation Game: quantifying and extrapolating the capapbilities of language models](https://github.com/vvchernov/LLM_info/blob/main/papers/benchmark/Accuracy/BigBench.pdf)
+3. BIG-bench Hard (BBH): [Challenging BIG-Bench tasks and whether chain-of-thoughts can solve them](https://github.com/vvchernov/LLM_info/blob/main/papers/benchmark/Accuracy/BigBenchHard.pdf)
 
 ### Tools
-1. HELM: [Holistic Evaluation of Language Models]() ([github](https://github.com/stanford-crfm/helm))
+1. HELM: [Holistic Evaluation of Language Models](https://github.com/vvchernov/LLM_info/blob/main/papers/benchmark/Accuracy/HELM.pdf) ([github](https://github.com/stanford-crfm/helm))
 
 ## Other benchmarks
 
