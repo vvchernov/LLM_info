@@ -33,9 +33,10 @@
 ### Before LLM era (classic)
 1. [Quantization and training of neural networks for efficient integer-arithmetic-only inference](https://github.com/vvchernov/LLM_info/blob/main/papers/compression/quantization/before_llm/NN_with_int_arithmetic_only.pdf)
 2. [Pointer Sentinel Mixture Models](https://github.com/vvchernov/LLM_info/blob/main/papers/compression/quantization/before_llm/sentinel_mixture_models.pdf)
-3. [MixMix: All You Need for Data-Free Compression Are Feature and Data Mixing]()
-4. [Low-bit Quantization of Neural Networks for Efficient Inference]()
-5. [Quantization Networks]() ([github](https://github.com/aliyun/alibabacloud-quantization-networks))
+3. [MixMix: All You Need for Data-Free Compression Are Feature and Data Mixing](https://github.com/vvchernov/LLM_info/blob/main/papers/compression/quantization/before_llm/MixMix.pdf)
+4. [Low-bit Quantization of Neural Networks for Efficient Inference](https://github.com/vvchernov/LLM_info/blob/main/papers/compression/quantization/before_llm/low_bit_quant.pdf)
+5. [Quantization Networks](https://github.com/vvchernov/LLM_info/blob/main/papers/compression/quantization/before_llm/quantization_networks.pdf) ([github](https://github.com/aliyun/alibabacloud-quantization-networks))
+6. [Compressing Large-Scale Transformer-Based Models: A Case Study on BERT](https://github.com/vvchernov/LLM_info/blob/main/papers/compression/quantization/before_llm/compressing_large_scale_transformer_based_models.pdf)
 
 ### 2020
 ### 2021
