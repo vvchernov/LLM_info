@@ -28,8 +28,8 @@
 3. [Tandem Transformers for Inference Efficient LLMs](https://github.com/vvchernov/LLM_info/blob/main/papers/optimization/tandem_transformers.pdf)
 4. [Fast inference of Mixture-of-Experts language models with offloading](https://github.com/vvchernov/LLM_info/blob/main/papers/optimization/MoE_fast_inference.pdf)
 
-# Quantization
-list of papers devoted to LLM (and not only) quantization can be found [here](https://github.com/vvchernov/LLM_info/blob/main/papers/compression/README.md)<br />
+# Compression
+list of papers devoted to LLM (and not only) compression (especially quantization) can be found [here](https://github.com/vvchernov/LLM_info/blob/main/papers/compression/README.md)<br />
 Also some brief resume of papers can be found there.
 
 ## Performance benchmark
