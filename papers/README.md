@@ -4,7 +4,7 @@
 1. [LLM-eval-survey](https://github.com/MLGroupJLU/LLM-eval-survey)
 2. [Awesome-Quantization-Papers](https://github.com/Zhen-Dong/Awesome-Quantization-Papers)
 3. [DL Compilers survey](https://github.com/vvchernov/LLM_info/blob/main/papers/surveys/DL_compilers_survey.pdf)
-4. [Efficient Transformers: A Survey]()
+4. [Efficient Transformers: A Survey](https://github.com/vvchernov/LLM_info/blob/main/papers/surveys/Efficient_transformers_survey.pdf)
 
 ## Common concepts
 ### Serving
@@ -27,7 +27,7 @@
 2. YOCO: [You Only Cache Once: decoder-decoder architectures for language models](https://github.com/vvchernov/LLM_info/blob/main/papers/optimization/yoco.pdf) ([code](https://aka.ms/YOCO))
 3. [Tandem Transformers for Inference Efficient LLMs](https://github.com/vvchernov/LLM_info/blob/main/papers/optimization/tandem_transformers.pdf)
 4. [Fast inference of Mixture-of-Experts language models with offloading](https://github.com/vvchernov/LLM_info/blob/main/papers/optimization/MoE_fast_inference.pdf)
-5. [Efficiently scaling transformer inference]()
+5. [Efficiently scaling transformer inference](https://github.com/vvchernov/LLM_info/blob/main/papers/optimization/efficiently_scaling.pdf)
 
 # Compression
 The list of papers devoted to LLM (and not only) compression (especially quantization) can be found [here](https://github.com/vvchernov/LLM_info/blob/main/papers/compression/README.md)<br />
