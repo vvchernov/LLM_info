@@ -27,4 +27,4 @@ Useful information about LLM and its environment is collected here
 
 # Papers
 [Raw list](https://github.com/vvchernov/LLM_info/blob/main/papers/README.md) of papers sorted by general topics<br />
-[Brief description and analysis](https://github.com/vvchernov/LLM_info/blob/main/papers/desc.md) of current state based on the papers
+Brief description and analysis of current state based on the papers can be also found there.
