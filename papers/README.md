@@ -13,10 +13,11 @@
 
 ### Quantization
 1. [Understanding int4 quantization for transformer models: latency speedup, composability, and failure cases](https://github.com/vvchernov/LLM_info/blob/main/papers/common/Int4_quantization.pdf)
-2. [FP8 versus INT8 for efficient deep learning inference]()
+2. [FP8 versus INT8 for efficient deep learning inference](https://github.com/vvchernov/LLM_info/blob/main/papers/common/fp8_vs_int8.pdf)
 
 ## Transformer and attention concepts
-1. [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness]()
+1. Transformers
+2. [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://github.com/vvchernov/LLM_info/blob/main/papers/common/flash_attn.pdf)
 
 ## Optimization concepts
 1. Speculative Decoding:
@@ -26,7 +27,7 @@
  - [Speculative Decoding with Big Little Decoder](https://github.com/vvchernov/LLM_info/blob/main/papers/optimization/speculative_decoding/speculative_decoding_big_little_decoder.pdf) ([github](https://github.com/kssteven418/BigLittleDecoder))
  - [LayerSkip: enabling early exit inference and self-speculative decoding](https://github.com/vvchernov/LLM_info/blob/main/papers/optimization/speculative_decoding/speculative_decoding_layer_skip.pdf)
  - [Multi-Candidate Speculative Decoding](https://github.com/vvchernov/LLM_info/blob/main/papers/optimization/speculative_decoding/speculative_decoding_multi_candidate.pdf) ([github](https://github.com/NJUNLP/MCSD))
-2. [LoRA: Low-Rank Adaptation of large language models]() ([github](https://github.com/microsoft/LoRA))
+2. [LoRA: Low-Rank Adaptation of large language models](https://github.com/vvchernov/LLM_info/blob/main/papers/optimization/LoRA.pdf) ([github](https://github.com/microsoft/LoRA))
 3. YOCO: [You Only Cache Once: decoder-decoder architectures for language models](https://github.com/vvchernov/LLM_info/blob/main/papers/optimization/yoco.pdf) ([code](https://aka.ms/YOCO))
 4. [Tandem Transformers for Inference Efficient LLMs](https://github.com/vvchernov/LLM_info/blob/main/papers/optimization/tandem_transformers.pdf)
 5. [Fast inference of Mixture-of-Experts language models with offloading](https://github.com/vvchernov/LLM_info/blob/main/papers/optimization/MoE_fast_inference.pdf)

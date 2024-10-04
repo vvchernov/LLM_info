@@ -10,7 +10,7 @@ Useful information about LLM and its environment is collected here
 5. [FireOptimizer](https://fireworks.ai/blog/fireoptimizer?utm_source=newsletter&utm_medium=email&utm_campaign=2024september): customizing latency and quality for your production inference workload
 6. [GGML](https://github.com/ggerganov/ggml): tensor library for machine learning
 7. [Medusa](https://github.com/FasterDecoding/Medusa) is a simple framework that democratizes the acceleration techniques for LLM generation with multiple decoding heads.
-8. [Optimal Brain Compression (OBC)](https://github.com/IST-DASLab/OBC): a framework for accurate PTQ and pruning ([paper]())
+8. [Optimal Brain Compression (OBC)](https://github.com/IST-DASLab/OBC): a framework for accurate PTQ and pruning ([paper](https://github.com/vvchernov/LLM_info/blob/main/papers/common/OBC.pdf))
 
 
 # Common information in tutorials and blogs
