@@ -1,5 +1,6 @@
 # Compression
 1. [Compositional Embeddings Using Complementary Partitions for Memory-Efficient Recommendation Systems](https://github.com/vvchernov/LLM_info/blob/main/papers/compression/compositional_embedding.pdf)
+2. [Mixed-precision embedding using a cache]()
 
 ## Quantization
 
@@ -13,6 +14,8 @@
 7. [APNN-TC: Accelerating Arbitrary Precision Neural Networks on Ampere GPU Tensor Cores](https://github.com/vvchernov/LLM_info/blob/main/papers/compression/quantization/before_llm/apnn-tc.pdf) ([github](https://github.com/BoyuanFeng/APNN-TC))
 8. [Towards Accurate Post-training Network Quantization via Bit-Split and Stitching](https://github.com/vvchernov/LLM_info/blob/main/papers/compression/quantization/before_llm/bit_split.pdf)
 9. [Quantizing deep convolutional networks for efficient inference: A whitepaper]()
+10. [Loss Aware Post-training Quantization]() ([github](https://github.com/ynahshan/nn-quantization-pytorch/tree/master/lapq))
+11. [FAT: Learning Low-Bitwidth Parametric Representation via Frequency-Aware Transformation]() ([github](https://github.com/ChaofanTao/FAT_Quantization))
 
 ### 2020
 1. [Efficient 8-Bit Quantization of Transformer Neural Machine Language Translation Model](https://github.com/vvchernov/LLM_info/blob/main/papers/compression/quantization/efficient_8bit_quant.pdf)
@@ -20,6 +23,7 @@
 ### 2021
 1. [BRECQ: pushing the limit of post-training quantization by block reconstruction](https://github.com/vvchernov/LLM_info/blob/main/papers/compression/quantization/BRECQ.pdf) ([github](https://github.com/yhhhli/BRECQ))
 2. [HAWQ-V3: dyadic neural network quantization](https://github.com/vvchernov/LLM_info/blob/main/papers/compression/quantization/HAWQ-v3.pdf) ([github](https://github.com/zhen-dong/hawq.git))
+3. [Understanding and Overcoming the Challenges of Efficient Transformer Quantization]() ([github](https://github.com/qualcomm-ai-research/transformer-quantization))
 
 ### 2022
 1. [ZeroQuant: efficient and affordable post-training quantization for large-scale transformers](https://github.com/vvchernov/LLM_info/blob/main/papers/compression/quantization/ZeroQuant.pdf) (implemented in [DeepSpeed](https://github.com/microsoft/DeepSpeed))
