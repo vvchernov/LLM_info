@@ -12,6 +12,7 @@
 6. [Compressing Large-Scale Transformer-Based Models: A Case Study on BERT](https://github.com/vvchernov/LLM_info/blob/main/papers/compression/quantization/before_llm/compressing_large_scale_transformer_based_models.pdf)
 7. [APNN-TC: Accelerating Arbitrary Precision Neural Networks on Ampere GPU Tensor Cores](https://github.com/vvchernov/LLM_info/blob/main/papers/compression/quantization/before_llm/apnn-tc.pdf) ([github](https://github.com/BoyuanFeng/APNN-TC))
 8. [Towards Accurate Post-training Network Quantization via Bit-Split and Stitching](https://github.com/vvchernov/LLM_info/blob/main/papers/compression/quantization/before_llm/bit_split.pdf)
+9. [Quantizing deep convolutional networks for efficient inference: A whitepaper]()
 
 ### 2020
 1. [Efficient 8-Bit Quantization of Transformer Neural Machine Language Translation Model](https://github.com/vvchernov/LLM_info/blob/main/papers/compression/quantization/efficient_8bit_quant.pdf)
@@ -23,6 +24,7 @@
 ### 2022
 1. [ZeroQuant: efficient and affordable post-training quantization for large-scale transformers](https://github.com/vvchernov/LLM_info/blob/main/papers/compression/quantization/ZeroQuant.pdf) (implemented in [DeepSpeed](https://github.com/microsoft/DeepSpeed))
 2. [NuQMM: Quantized MatMul for efficient inference of large-scale generative language models](https://github.com/vvchernov/LLM_info/blob/main/papers/compression/quantization/NuQMM.pdf)
+3. bitsandbytes: [LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale]() ([github](https://github.com/bitsandbytes-foundation/bitsandbytes))
 
 ### 2023
 1. [SmoothQuant: accurate and efficient post-training quantization for large language models](https://github.com/vvchernov/LLM_info/blob/main/papers/compression/quantization/SmoothQuant.pdf) ([github](https://github.com/mit-han-lab/smoothquant))
