@@ -13,6 +13,9 @@
 7. [APNN-TC: Accelerating Arbitrary Precision Neural Networks on Ampere GPU Tensor Cores]() ([github](https://github.com/BoyuanFeng/APNN-TC))
 8. [Towards Accurate Post-training Network Quantization via Bit-Split and Stitching]()
 
+### 2020
+1. [Efficient 8-Bit Quantization of Transformer Neural Machine Language Translation Model]()
+
 ### 2021
 1. [BRECQ: pushing the limit of post-training quantization by block reconstruction](https://github.com/vvchernov/LLM_info/blob/main/papers/compression/quantization/BRECQ.pdf) ([github](https://github.com/yhhhli/BRECQ))
 2. [HAWQ-V3: dyadic neural network quantization](https://github.com/vvchernov/LLM_info/blob/main/papers/compression/quantization/HAWQ-v3.pdf) ([github](https://github.com/zhen-dong/hawq.git))
