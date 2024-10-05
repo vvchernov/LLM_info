@@ -28,25 +28,25 @@
  - [LayerSkip: enabling early exit inference and self-speculative decoding](https://github.com/vvchernov/LLM_info/blob/main/papers/optimization/speculative_decoding/speculative_decoding_layer_skip.pdf)
  - [Multi-Candidate Speculative Decoding](https://github.com/vvchernov/LLM_info/blob/main/papers/optimization/speculative_decoding/speculative_decoding_multi_candidate.pdf) ([github](https://github.com/NJUNLP/MCSD))
 2. TVM ([github](https://github.com/apache/tvm)):
- - [TVM: An Automated End-to-End Optimizing Compiler for Deep Learning]()
- - [Learning to Optimize Tensor Programs]()
- - [TensorIR: An Abstraction for Automatic Tensorized Program Optimization]()
- - [Ansor: Generating High-Performance Tensor Programs for Deep Learning]()
- - [Collage: automated integration of deep learning backends]()
- - MetaSchedule: [Tensor Program Optimization with Probabilistic Programs]()
- - NAS: [Neural Architecture Search as Program Transformation Exploration]()
- - [DietCode: High-Performance Code Generation for Dynamic Tensor Programs]()
- - [Autoscheduling for Sparse Tensor Algebra with an Asymptotic Cost Model]()
- - [Value learning for throughput optimization of deep neural networks]()
+ - [TVM: An Automated End-to-End Optimizing Compiler for Deep Learning](https://github.com/vvchernov/LLM_info/blob/main/papers/optimization/tvm/tvm.pdf)
+ - [Learning to Optimize Tensor Programs](https://github.com/vvchernov/LLM_info/blob/main/papers/optimization/tvm/learning_to_optimize.pdf)
+ - [TensorIR: An Abstraction for Automatic Tensorized Program Optimization](https://github.com/vvchernov/LLM_info/blob/main/papers/optimization/tvm/tir.pdf)
+ - [Ansor: Generating High-Performance Tensor Programs for Deep Learning](https://github.com/vvchernov/LLM_info/blob/main/papers/optimization/tvm/ansor.pdf)
+ - [Collage: automated integration of deep learning backends](https://github.com/vvchernov/LLM_info/blob/main/papers/optimization/tvm/collage.pdf)
+ - MetaSchedule: [Tensor Program Optimization with Probabilistic Programs](https://github.com/vvchernov/LLM_info/blob/main/papers/optimization/tvm/metaschedule.pdf)
+ - NAS: [Neural Architecture Search as Program Transformation Exploration](https://github.com/vvchernov/LLM_info/blob/main/papers/optimization/tvm/NAS.pdf)
+ - [DietCode: High-Performance Code Generation for Dynamic Tensor Programs](https://github.com/vvchernov/LLM_info/blob/main/papers/optimization/tvm/DietCode.pdf)
+ - [Autoscheduling for Sparse Tensor Algebra with an Asymptotic Cost Model](https://github.com/vvchernov/LLM_info/blob/main/papers/optimization/tvm/autoscheduling_sparse_tensors.pdf)
+ - [Value learning for throughput optimization of deep neural networks](https://github.com/vvchernov/LLM_info/blob/main/papers/optimization/tvm/throughput_optimization.pdf)
 3. [LoRA: Low-Rank Adaptation of large language models](https://github.com/vvchernov/LLM_info/blob/main/papers/optimization/LoRA.pdf) ([github](https://github.com/microsoft/LoRA))
 4. YOCO: [You Only Cache Once: decoder-decoder architectures for language models](https://github.com/vvchernov/LLM_info/blob/main/papers/optimization/yoco.pdf) ([code](https://aka.ms/YOCO))
 5. [Tandem Transformers for Inference Efficient LLMs](https://github.com/vvchernov/LLM_info/blob/main/papers/optimization/tandem_transformers.pdf)
 6. [Fast inference of Mixture-of-Experts language models with offloading](https://github.com/vvchernov/LLM_info/blob/main/papers/optimization/MoE_fast_inference.pdf)
 7. [Efficiently scaling transformer inference](https://github.com/vvchernov/LLM_info/blob/main/papers/optimization/efficiently_scaling.pdf)
-8. LLMA: [Inference with Reference: Lossless Acceleration of Large Language Models]() ([github](https://github.com/microsoft/unilm))
-9. [Analytical Characterization and Design Space Exploration for Optimization of CNNs]()
+8. LLMA: [Inference with Reference: Lossless Acceleration of Large Language Models](https://github.com/vvchernov/LLM_info/blob/main/papers/optimization/LLMA.pdf) ([github](https://github.com/microsoft/unilm))
+9. [Analytical Characterization and Design Space Exploration for Optimization of CNNs](https://github.com/vvchernov/LLM_info/blob/main/papers/optimization/optimization_design_space_exploration.pdf)
 
-# Compression
+## Compression
 The list of papers devoted to LLM (and not only) compression (especially quantization) can be found [here](https://github.com/vvchernov/LLM_info/blob/main/papers/compression/README.md)<br />
 Also some brief resume of papers can be found there.
 

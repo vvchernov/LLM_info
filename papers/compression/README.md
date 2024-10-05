@@ -16,10 +16,10 @@
 9. [Quantizing deep convolutional networks for efficient inference: A whitepaper](https://github.com/vvchernov/LLM_info/blob/main/papers/compression/quantization/before_llm/conv_quant_whitepaper.pdf)
 10. [Loss Aware Post-training Quantization](https://github.com/vvchernov/LLM_info/blob/main/papers/compression/quantization/before_llm/loss_aware_ptq.pdf) ([github](https://github.com/ynahshan/nn-quantization-pytorch/tree/master/lapq))
 11. [FAT: Learning Low-Bitwidth Parametric Representation via Frequency-Aware Transformation](https://github.com/vvchernov/LLM_info/blob/main/papers/compression/quantization/before_llm/fat.pdf) ([github](https://github.com/ChaofanTao/FAT_Quantization))
-12. [REx: Data-Free Residual Quantization Error Expansion]()
-13. [SQuant: on-the-fly data-free quantization via Diagonal Hessian Approximation]() ([github](https://github.com/clevercool/SQuant))
-14. [RAPQ: Rescuing Accuracy for Power-of-Two Low-bit Post-training Quantization]() ([github](https://github.com/BillAmihom/RAPQ))
-15. [SPIQ: Data-Free Per-Channel Static Input Quantization]()
+12. [REx: Data-Free Residual Quantization Error Expansion](https://github.com/vvchernov/LLM_info/blob/main/papers/compression/quantization/before_llm/REx.pdf)
+13. [SQuant: on-the-fly data-free quantization via Diagonal Hessian Approximation](https://github.com/vvchernov/LLM_info/blob/main/papers/compression/quantization/before_llm/SQuant.pdf) ([github](https://github.com/clevercool/SQuant))
+14. [RAPQ: Rescuing Accuracy for Power-of-Two Low-bit Post-training Quantization](https://github.com/vvchernov/LLM_info/blob/main/papers/compression/quantization/before_llm/RAPQ.pdf) ([github](https://github.com/BillAmihom/RAPQ))
+15. [SPIQ: Data-Free Per-Channel Static Input Quantization](https://github.com/vvchernov/LLM_info/blob/main/papers/compression/quantization/before_llm/SPIQ.pdf)
 
 ### 2020
 1. [Efficient 8-Bit Quantization of Transformer Neural Machine Language Translation Model](https://github.com/vvchernov/LLM_info/blob/main/papers/compression/quantization/efficient_8bit_quant.pdf)
