@@ -10,6 +10,7 @@
 ### Serving
 1. [Orca: a distributed serving system for transformer-based generative models](https://github.com/vvchernov/LLM_info/blob/main/papers/common/Orca.pdf)
 2. [Efficient Memory Management for Large Language Model Serving with PagedAttention](https://github.com/vvchernov/LLM_info/blob/main/papers/common/PagedAttention.pdf) ([vLLM](https://github.com/vllm-project/vllm))
+3. [RouteLLM: Learning to Route LLMs with Preference Data]()
 
 ### Quantization
 1. [Understanding int4 quantization for transformer models: latency speedup, composability, and failure cases](https://github.com/vvchernov/LLM_info/blob/main/papers/common/Int4_quantization.pdf)
@@ -45,6 +46,8 @@
 7. [Efficiently scaling transformer inference](https://github.com/vvchernov/LLM_info/blob/main/papers/optimization/efficiently_scaling.pdf)
 8. LLMA: [Inference with Reference: Lossless Acceleration of Large Language Models](https://github.com/vvchernov/LLM_info/blob/main/papers/optimization/LLMA.pdf) ([github](https://github.com/microsoft/unilm))
 9. [Analytical Characterization and Design Space Exploration for Optimization of CNNs](https://github.com/vvchernov/LLM_info/blob/main/papers/optimization/optimization_design_space_exploration.pdf)
+10. [Optimizing Inference Performance of Transformers on CPUs]()
+11. [Multiplying Matrices Without Multiplying]()
 
 ## Compression
 The list of papers devoted to LLM (and not only) compression (especially quantization) can be found [here](https://github.com/vvchernov/LLM_info/blob/main/papers/compression/README.md)<br />
