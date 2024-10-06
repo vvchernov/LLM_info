@@ -2,14 +2,20 @@
 Useful information about LLM and its environment is collected here
 
 # Open source projects and frameworks
+## Serving
 1. [vLLM](https://github.com/vllm-project/vllm): a fast and easy-to-use library for LLM inference and serving ([blog](https://blog.vllm.ai/2023/06/20/vllm.html))
-2. [DeepSpeed](https://github.com/microsoft/DeepSpeed): a deep learning optimization library that makes distributed training easy, efficient, and effective
-3. [TVM](https://github.com/apache/tvm): a compiler stack for deep learning systems. It is designed to close the gap between the productivity-focused deep learning frameworks, and the performance- and efficiency-focused hardware backends
-4. [LangChain](https://github.com/langchain-ai/langchain) is a framework for developing applications powered by large language models (LLMs)
-5. [FireOptimizer](https://fireworks.ai/blog/fireoptimizer?utm_source=newsletter&utm_medium=email&utm_campaign=2024september): customizing latency and quality for your production inference workload
-6. [GGML](https://github.com/ggerganov/ggml): tensor library for machine learning
-7. [Medusa](https://github.com/FasterDecoding/Medusa) is a simple framework that democratizes the acceleration techniques for LLM generation with multiple decoding heads.
-8. [Optimal Brain Compression (OBC)](https://github.com/IST-DASLab/OBC): a framework for accurate PTQ and pruning ([paper](https://github.com/vvchernov/LLM_info/blob/main/papers/common/OBC.pdf))
+2. [RouteLLM](https://github.com/lm-sys/RouteLLM): a framework for serving and evaluating LLM routers.
+
+## Optimization
+1. [DeepSpeed](https://github.com/microsoft/DeepSpeed): a deep learning optimization library that makes distributed training easy, efficient, and effective
+2. [TVM](https://github.com/apache/tvm): a compiler stack for deep learning systems. It is designed to close the gap between the productivity-focused deep learning frameworks, and the performance- and efficiency-focused hardware backends
+3. [FireOptimizer](https://fireworks.ai/blog/fireoptimizer?utm_source=newsletter&utm_medium=email&utm_campaign=2024september): customizing latency and quality for your production inference workload
+4. [GGML](https://github.com/ggerganov/ggml): tensor library for machine learning
+5. [Medusa](https://github.com/FasterDecoding/Medusa) is a simple framework that democratizes the acceleration techniques for LLM generation with multiple decoding heads.
+6. [Optimal Brain Compression (OBC)](https://github.com/IST-DASLab/OBC): a framework for accurate PTQ and pruning ([paper](https://github.com/vvchernov/LLM_info/blob/main/papers/common/OBC.pdf))
+
+## Business-logic over LLM
+1. [LangChain](https://github.com/langchain-ai/langchain) is a framework for developing applications powered by large language models (LLMs)
 
 # AI Agents and platforms
 1. [OPEA](https://www.intel.com/content/www/us/en/developer/articles/news/genai-project-opea-marks-1-0-release.html): Open Platform for Enterprise AI from Intel ([examples](https://github.com/opea-project/GenAIExamples) in github)
