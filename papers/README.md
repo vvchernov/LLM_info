@@ -18,7 +18,8 @@
 2. [FP8 versus INT8 for efficient deep learning inference](https://github.com/vvchernov/LLM_info/blob/main/papers/common/fp8_vs_int8.pdf)
 
 ### Prompting
-1. [Progressive-Hint Prompting Improves Reasoning in Large Language Models](https://github.com/vvchernov/LLM_info/blob/main/papers/common/PHP.pdf) ([github](https://github.com/chuanyang-Zheng/Progressive-Hint))
+1. [PromptSource: An Integrated Development Environment and Repository for Natural Language Prompts]() ([github](https://github.com/bigscience-workshop/promptsource))
+2. [Progressive-Hint Prompting Improves Reasoning in Large Language Models](https://github.com/vvchernov/LLM_info/blob/main/papers/common/PHP.pdf) ([github](https://github.com/chuanyang-Zheng/Progressive-Hint))
 
 ## Transformer and attention concepts
 1. Transformers
@@ -52,6 +53,8 @@
 9. [Analytical Characterization and Design Space Exploration for Optimization of CNNs](https://github.com/vvchernov/LLM_info/blob/main/papers/optimization/optimization_design_space_exploration.pdf)
 10. [Optimizing Inference Performance of Transformers on CPUs](https://github.com/vvchernov/LLM_info/blob/main/papers/optimization/cpu_inference_optimizing.pdf)
 11. [Multiplying Matrices Without Multiplying](https://github.com/vvchernov/LLM_info/blob/main/papers/optimization/matmul_without_multiplying.pdf)
+12. [IOOpt: Automatic Derivation of I/O Complexity Bounds for Affine Programs]()
+13. [Efficient convolution optimisation by composing micro-kernels]()
 
 ## Compression
 The list of papers devoted to LLM (and not only) compression (especially quantization) can be found [here](https://github.com/vvchernov/LLM_info/blob/main/papers/compression/README.md)<br />
@@ -78,4 +81,8 @@ Also some brief resume of papers can be found there.
 ## Other benchmarks
 
 ## LLM technical documents
- 1. [PaLM: Scaling Language Modeling with Pathways](https://github.com/vvchernov/LLM_info/blob/main/papers/llms/PaLM.pdf)
+1. [PaLM: Scaling Language Modeling with Pathways](https://github.com/vvchernov/LLM_info/blob/main/papers/llms/PaLM.pdf)
+
+## Others (undistributed)
+1. Shapiro-Wilk test: [An analysis of variance test for normality (complete samples)]()
+2. [U-Net: Convolutional Networks for Biomedical Image Segmentation]()
