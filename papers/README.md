@@ -55,6 +55,7 @@
 11. [Multiplying Matrices Without Multiplying](https://github.com/vvchernov/LLM_info/blob/main/papers/optimization/matmul_without_multiplying.pdf)
 12. [IOOpt: Automatic Derivation of I/O Complexity Bounds for Affine Programs]()
 13. [Efficient convolution optimisation by composing micro-kernels]()
+14. [Discovering faster matrix multiplication algorithms with reinforcement learning]()
 
 ## Compression
 The list of papers devoted to LLM (and not only) compression (especially quantization) can be found [here](https://github.com/vvchernov/LLM_info/blob/main/papers/compression/README.md)<br />
@@ -86,3 +87,9 @@ Also some brief resume of papers can be found there.
 ## Others (undistributed)
 1. Shapiro-Wilk test: [An analysis of variance test for normality (complete samples)]()
 2. [U-Net: Convolutional Networks for Biomedical Image Segmentation]()
+3. [On-Device Machine Learning: An Algorithms and Learning Theory Perspective]()
+4. [Enabling On-Device CNN Training by Self-Supervised Instance Filtering and Error Map Pruning]()
+5. [XGBoost: A Scalable Tree Boosting System]()
+6. [Long Short-Term Memory based recurrent neural network architectures for large vocabulary speech recognition]()
+7. [Stacked Bidirectional and Unidirectional LSTM Recurrent Neural Network for Network-wide Traffic Speed Prediction]()
+8. [Stacked LSTM Based Deep Recurrent Neural Network with Kalman Smoothing for Blood Glucose Prediction]()
