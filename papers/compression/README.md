@@ -48,3 +48,11 @@
 ### 2024
 1. [Efficient post-training quantization with fp8 formats](https://github.com/vvchernov/LLM_info/blob/main/papers/compression/quantization/fp8_ptq.pdf)
 2. [OmniQuant: Omnidirectionally calibrated quantization for large language models](https://github.com/vvchernov/LLM_info/blob/main/papers/compression/quantization/omni_quant.pdf) ([github](https://github.com/OpenGVLab/OmniQuant))
+
+## Knowledge Distillation (KD)
+1. [Distilling the Knowledge in a Neural Network]()
+2. [Knowledge Distillation: A Survey]()
+3. [A Comprehensive Survey on Knowledge Distillation of Diffusion Models]()
+4. [Graph-based Knowledge Distillation: A survey and experimental evaluation]()
+5. [Survey of Knowledge Distillation in Federated Edge Learning]()
+6. [Knowledge Distillation on Graphs: A Survey]()
