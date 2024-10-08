@@ -4,7 +4,7 @@ Useful information about LLM and its environment is collected here
 # Open source projects and frameworks
 ## Serving
 1. [vLLM](https://github.com/vllm-project/vllm): a fast and easy-to-use library for LLM inference and serving ([blog](https://blog.vllm.ai/2023/06/20/vllm.html))
-2. [RouteLLM](https://github.com/lm-sys/RouteLLM): a framework for serving and evaluating LLM routers ([paper]())
+2. [RouteLLM](https://github.com/lm-sys/RouteLLM): a framework for serving and evaluating LLM routers ([paper](https://github.com/vvchernov/LLM_info/blob/main/papers/common/RouteLLM.pdf))
 
 ## Optimization
 1. [DeepSpeed](https://github.com/microsoft/DeepSpeed): a deep learning optimization library that makes distributed training easy, efficient, and effective
