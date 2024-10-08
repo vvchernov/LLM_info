@@ -13,9 +13,13 @@
 2. [Efficient Memory Management for Large Language Model Serving with PagedAttention](https://github.com/vvchernov/LLM_info/blob/main/papers/common/PagedAttention.pdf) ([vLLM](https://github.com/vllm-project/vllm))
 3. [RouteLLM: Learning to Route LLMs with Preference Data](https://github.com/vvchernov/LLM_info/blob/main/papers/common/RouteLLM.pdf)
 
-### Prompting
+### Prompt-engineering and other performance improvement methods
 1. [PromptSource: An Integrated Development Environment and Repository for Natural Language Prompts]() ([github](https://github.com/bigscience-workshop/promptsource))
 2. [Progressive-Hint Prompting Improves Reasoning in Large Language Models](https://github.com/vvchernov/LLM_info/blob/main/papers/common/PHP.pdf) ([github](https://github.com/chuanyang-Zheng/Progressive-Hint))
+3. [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models]()
+4. [PAL: Program-aided Language Models]() ([official site](https://reasonwithpal.com/))
+5. [Automatic Model Selection with Large Language Models for Reasoning]() ([github](https://github.com/XuZhao0/Model-Selection-Reasoning))
+6. [Faithful Reasoning Using Large Language Models]()
 
 ### Transformer and attentions
 1. Transformers
@@ -79,11 +83,15 @@ Also some brief resume of papers can be found there.
 4. [oLMpics-On What Language Model Pre-training Captures](https://github.com/vvchernov/LLM_info/blob/main/papers/benchmark/Accuracy/tools/oLMpics.pdf) ([github](https://github.com/alontalmor/oLMpics))
 5. HANS: [Right for the wrong reasons: diagnosing syntactic heuristics in natural language inference](https://github.com/vvchernov/LLM_info/blob/main/papers/benchmark/Accuracy/tools/HANS.pdf) ([github](https://github.com/tommccoy1/hans))
 6. [LMFlow Benchmark: A Scalable Evaluation Paradigm for Large Language Models]() ([github](https://github.com/OptimalScale/LMFlow), [blog](https://blog.gopenai.com/lmflow-benchmark-an-automatic-evaluation-framework-for-open-source-llms-ef5c6f142418))
+7. [The GEM Benchmark: Natural Language Generation, its Evaluation and Metrics]() ([official site](https://gem-benchmark.com/))
+8. NaturalInstructions
+9. [Super-NaturalInstructions: generalization via declarative instructions on 1600+ NLP Tasks]()
 *. [Beyond Perplexity: Multi-dimensional Safety Evaluation of LLM Compression](https://github.com/vvchernov/LLM_info/blob/main/papers/benchmark/Accuracy/tools/beyond_perplexity_safety_eval.pdf) ([github](https://github.com/zhichaoxu-shufe/beyond-perplexity-compression-safety-eval))
 *. [Language Model Evaluation Beyond Perplexity](https://github.com/vvchernov/LLM_info/blob/main/papers/benchmark/Accuracy/tools/eval_beyond_perplexity.pdf)
 
 ## Other benchmarks
 1. [Auditing large language models: a three‑layered approach]()
+2. FACTOR: [Generating Benchmarks for Factuality Evaluation of Language Models]() ([github](https://github.com/AI21Labs/factor))
 
 ## LLM technical documents
 1. [PaLM: Scaling Language Modeling with Pathways](https://github.com/vvchernov/LLM_info/blob/main/papers/llms/PaLM.pdf)
@@ -98,3 +106,4 @@ Also some brief resume of papers can be found there.
 7. [Stacked Bidirectional and Unidirectional LSTM Recurrent Neural Network for Network-wide Traffic Speed Prediction]()
 8. [Stacked LSTM Based Deep Recurrent Neural Network with Kalman Smoothing for Blood Glucose Prediction]()
 9. [Collective Knowledge: organizing research projects as a database of reusable components and portable workflows with common APIs]() ([github](https://github.com/mlcommons/ck))
+10. [Solving challenging math word problems using GPT-4 Code interpreter with code-based self-verification]()
