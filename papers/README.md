@@ -5,6 +5,7 @@
 2. [Awesome-Quantization-Papers](https://github.com/Zhen-Dong/Awesome-Quantization-Papers)
 3. [DL Compilers survey](https://github.com/vvchernov/LLM_info/blob/main/papers/surveys/DL_compilers_survey.pdf)
 4. [Efficient Transformers: A Survey](https://github.com/vvchernov/LLM_info/blob/main/papers/surveys/Efficient_transformers_survey.pdf)
+5. [A Survey on Evaluation of Large Language Models]()
 
 ## Common concepts
 ### Serving
@@ -15,6 +16,9 @@
 ### Quantization
 1. [Understanding int4 quantization for transformer models: latency speedup, composability, and failure cases](https://github.com/vvchernov/LLM_info/blob/main/papers/common/Int4_quantization.pdf)
 2. [FP8 versus INT8 for efficient deep learning inference](https://github.com/vvchernov/LLM_info/blob/main/papers/common/fp8_vs_int8.pdf)
+
+### Prompting
+1. [Progressive-Hint Prompting Improves Reasoning in Large Language Models]() ([github](https://github.com/chuanyang-Zheng/Progressive-Hint))
 
 ## Transformer and attention concepts
 1. Transformers
@@ -57,12 +61,19 @@ Also some brief resume of papers can be found there.
 
 ## Accuracy benchmark
 ### Datasets
-1. MMLU: [Measuring Massive Multitask language Understanding](https://github.com/vvchernov/LLM_info/blob/main/papers/benchmark/Accuracy/MMLU.pdf): MMLU
-2. BIG-bench (BB): [Beyond the Imitation Game: quantifying and extrapolating the capapbilities of language models](https://github.com/vvchernov/LLM_info/blob/main/papers/benchmark/Accuracy/BigBench.pdf)
-3. BIG-bench Hard (BBH): [Challenging BIG-Bench tasks and whether chain-of-thoughts can solve them](https://github.com/vvchernov/LLM_info/blob/main/papers/benchmark/Accuracy/BigBenchHard.pdf)
+1. MMLU: [Measuring Massive Multitask language Understanding](https://github.com/vvchernov/LLM_info/blob/main/papers/benchmark/Accuracy/datasets/MMLU.pdf): MMLU
+2. BIG-bench (BB): [Beyond the Imitation Game: quantifying and extrapolating the capapbilities of language models](https://github.com/vvchernov/LLM_info/blob/main/papers/benchmark/Accuracy/datasets/BigBench.pdf)
+3. BIG-bench Hard (BBH): [Challenging BIG-Bench tasks and whether chain-of-thoughts can solve them](https://github.com/vvchernov/LLM_info/blob/main/papers/benchmark/Accuracy/datasets/BigBenchHard.pdf)
+*. [RussianSuperGLUE: A Russian Language Understanding Evaluation Benchmark]()
 
 ### Tools
 1. HELM: [Holistic Evaluation of Language Models](https://github.com/vvchernov/LLM_info/blob/main/papers/benchmark/Accuracy/HELM.pdf) ([github](https://github.com/stanford-crfm/helm))
+2. [LMentry: A Language Model benchmark of Elementary language tasks]() ([github](https://github.com/aviaefrat/lmentry))
+3. bAbI: [Towards AI-complete Question Answering: a set of prerequisite toy tasks]() ([github](https://github.com/facebookarchive/bAbI-tasks))
+4. [oLMpics-On What Language Model Pre-training Captures]() ([github](https://github.com/alontalmor/oLMpics))
+5. HANS: [Right for the wrong reasons: diagnosing syntactic heuristics in natural language inference]() ([github](https://github.com/tommccoy1/hans))
+*. [Beyond Perplexity: Multi-dimensional Safety Evaluation of LLM Compression]() ([github](https://github.com/zhichaoxu-shufe/beyond-perplexity-compression-safety-eval))
+*. [Language Model Evaluation Beyond Perplexity]()
 
 ## Other benchmarks
 
