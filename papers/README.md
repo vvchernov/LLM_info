@@ -13,17 +13,19 @@
 2. [Efficient Memory Management for Large Language Model Serving with PagedAttention](https://github.com/vvchernov/LLM_info/blob/main/papers/common/PagedAttention.pdf) ([vLLM](https://github.com/vllm-project/vllm))
 3. [RouteLLM: Learning to Route LLMs with Preference Data](https://github.com/vvchernov/LLM_info/blob/main/papers/common/RouteLLM.pdf)
 
-### Quantization
-1. [Understanding int4 quantization for transformer models: latency speedup, composability, and failure cases](https://github.com/vvchernov/LLM_info/blob/main/papers/common/Int4_quantization.pdf)
-2. [FP8 versus INT8 for efficient deep learning inference](https://github.com/vvchernov/LLM_info/blob/main/papers/common/fp8_vs_int8.pdf)
-
 ### Prompting
 1. [PromptSource: An Integrated Development Environment and Repository for Natural Language Prompts]() ([github](https://github.com/bigscience-workshop/promptsource))
 2. [Progressive-Hint Prompting Improves Reasoning in Large Language Models](https://github.com/vvchernov/LLM_info/blob/main/papers/common/PHP.pdf) ([github](https://github.com/chuanyang-Zheng/Progressive-Hint))
 
-## Transformer and attention concepts
+### Transformer and attentions
 1. Transformers
 2. [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://github.com/vvchernov/LLM_info/blob/main/papers/common/flash_attn.pdf)
+*. [Train short, test long: attention with linear biases enables input length extrapolation]()
+*. [Self-attention does not need O(n^2) memory]()
+
+### Quantization
+1. [Understanding int4 quantization for transformer models: latency speedup, composability, and failure cases](https://github.com/vvchernov/LLM_info/blob/main/papers/common/Int4_quantization.pdf)
+2. [FP8 versus INT8 for efficient deep learning inference](https://github.com/vvchernov/LLM_info/blob/main/papers/common/fp8_vs_int8.pdf)
 
 ## Optimization concepts
 1. Speculative Decoding:
@@ -76,10 +78,12 @@ Also some brief resume of papers can be found there.
 3. bAbI: [Towards AI-complete Question Answering: a set of prerequisite toy tasks](https://github.com/vvchernov/LLM_info/blob/main/papers/benchmark/Accuracy/tools/bAbI.pdf) ([github](https://github.com/facebookarchive/bAbI-tasks))
 4. [oLMpics-On What Language Model Pre-training Captures](https://github.com/vvchernov/LLM_info/blob/main/papers/benchmark/Accuracy/tools/oLMpics.pdf) ([github](https://github.com/alontalmor/oLMpics))
 5. HANS: [Right for the wrong reasons: diagnosing syntactic heuristics in natural language inference](https://github.com/vvchernov/LLM_info/blob/main/papers/benchmark/Accuracy/tools/HANS.pdf) ([github](https://github.com/tommccoy1/hans))
+6. [LMFlow Benchmark: A Scalable Evaluation Paradigm for Large Language Models]() ([github](https://github.com/OptimalScale/LMFlow), [blog](https://blog.gopenai.com/lmflow-benchmark-an-automatic-evaluation-framework-for-open-source-llms-ef5c6f142418))
 *. [Beyond Perplexity: Multi-dimensional Safety Evaluation of LLM Compression](https://github.com/vvchernov/LLM_info/blob/main/papers/benchmark/Accuracy/tools/beyond_perplexity_safety_eval.pdf) ([github](https://github.com/zhichaoxu-shufe/beyond-perplexity-compression-safety-eval))
 *. [Language Model Evaluation Beyond Perplexity](https://github.com/vvchernov/LLM_info/blob/main/papers/benchmark/Accuracy/tools/eval_beyond_perplexity.pdf)
 
 ## Other benchmarks
+1. [Auditing large language models: a three‑layered approach]()
 
 ## LLM technical documents
 1. [PaLM: Scaling Language Modeling with Pathways](https://github.com/vvchernov/LLM_info/blob/main/papers/llms/PaLM.pdf)
@@ -93,3 +97,4 @@ Also some brief resume of papers can be found there.
 6. [Long Short-Term Memory based recurrent neural network architectures for large vocabulary speech recognition]()
 7. [Stacked Bidirectional and Unidirectional LSTM Recurrent Neural Network for Network-wide Traffic Speed Prediction]()
 8. [Stacked LSTM Based Deep Recurrent Neural Network with Kalman Smoothing for Blood Glucose Prediction]()
+9. [Collective Knowledge: organizing research projects as a database of reusable components and portable workflows with common APIs]() ([github](https://github.com/mlcommons/ck))
