@@ -14,12 +14,13 @@
 3. [RouteLLM: Learning to Route LLMs with Preference Data](https://github.com/vvchernov/LLM_info/blob/main/papers/common/RouteLLM.pdf)
 
 ### Prompt-engineering and other performance improvement methods
-1. [PromptSource: An Integrated Development Environment and Repository for Natural Language Prompts]() ([github](https://github.com/bigscience-workshop/promptsource))
-2. [Progressive-Hint Prompting Improves Reasoning in Large Language Models](https://github.com/vvchernov/LLM_info/blob/main/papers/common/PHP.pdf) ([github](https://github.com/chuanyang-Zheng/Progressive-Hint))
-3. [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models]()
-4. [PAL: Program-aided Language Models]() ([official site](https://reasonwithpal.com/))
-5. [Automatic Model Selection with Large Language Models for Reasoning]() ([github](https://github.com/XuZhao0/Model-Selection-Reasoning))
-6. [Faithful Reasoning Using Large Language Models]()
+1. [PromptSource: An Integrated Development Environment and Repository for Natural Language Prompts](https://github.com/vvchernov/LLM_info/blob/main/papers/common/prompt/prompt_source.pdf) ([github](https://github.com/bigscience-workshop/promptsource))
+2. [Progressive-Hint Prompting Improves Reasoning in Large Language Models](https://github.com/vvchernov/LLM_info/blob/main/papers/common/prompt/PHP.pdf) ([github](https://github.com/chuanyang-Zheng/Progressive-Hint))
+3. [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://github.com/vvchernov/LLM_info/blob/main/papers/common/prompt/CoT.pdf)
+4. [PAL: Program-aided Language Models](https://github.com/vvchernov/LLM_info/blob/main/papers/common/prompt/PAL.pdf) ([official site](https://reasonwithpal.com/))
+5. [Automatic Model Selection with Large Language Models for Reasoning](https://github.com/vvchernov/LLM_info/blob/main/papers/common/prompt/automatic_model_selection.pdf) ([github](https://github.com/XuZhao0/Model-Selection-Reasoning))
+6. [Faithful Reasoning Using Large Language Models](https://github.com/vvchernov/LLM_info/blob/main/papers/common/prompt/faithful_reasoning.pdf)
+7. [Calibrate Before Use: Improving Few-Shot Performance of Language Models](https://github.com/vvchernov/LLM_info/blob/main/papers/common/prompt/calibrate_before_use.pdf)
 
 ### Transformer and attentions
 1. Transformers
