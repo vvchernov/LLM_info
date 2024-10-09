@@ -21,6 +21,7 @@
 5. [Automatic Model Selection with Large Language Models for Reasoning](https://github.com/vvchernov/LLM_info/blob/main/papers/common/prompt/automatic_model_selection.pdf) ([github](https://github.com/XuZhao0/Model-Selection-Reasoning))
 6. [Faithful Reasoning Using Large Language Models](https://github.com/vvchernov/LLM_info/blob/main/papers/common/prompt/faithful_reasoning.pdf)
 7. [Calibrate Before Use: Improving Few-Shot Performance of Language Models](https://github.com/vvchernov/LLM_info/blob/main/papers/common/prompt/calibrate_before_use.pdf)
+8. LMSI: [Large Language Models can Self-Improve]()
 
 ### Transformer and attentions
 1. Transformers
@@ -93,6 +94,12 @@ Also some brief resume of papers can be found there.
 ## Other benchmarks
 1. [Auditing large language models: a three‑layered approach](https://github.com/vvchernov/LLM_info/blob/main/papers/benchmark/others/llm_auditing.pdf)
 2. FACTOR: [Generating Benchmarks for Factuality Evaluation of Language Models](https://github.com/vvchernov/LLM_info/blob/main/papers/benchmark/others/factor.pdf) ([github](https://github.com/AI21Labs/factor))
+3. [Strength in Numbers: Estimating Confidence of Large Language Models by Prompt Agreement]() ([github](https://github.com/JHU-CLSP/Confidence-Estimation-TrustNLP2023))
+
+## Training
+1. [Quantized Distributed Training of Large Models with Convergence Guarantees]()
+2. [QLoRA: Efficient Finetuning of Quantized LLMs]()
+3. [Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference]()
 
 ## LLM technical documents
 1. [PaLM: Scaling Language Modeling with Pathways](https://github.com/vvchernov/LLM_info/blob/main/papers/llms/PaLM.pdf)

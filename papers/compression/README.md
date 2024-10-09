@@ -1,6 +1,9 @@
 # Compression
 1. [Compositional Embeddings Using Complementary Partitions for Memory-Efficient Recommendation Systems](https://github.com/vvchernov/LLM_info/blob/main/papers/compression/compositional_embedding.pdf)
 2. [Mixed-precision embedding using a cache](https://github.com/vvchernov/LLM_info/blob/main/papers/compression/mixed_precision_embedding.pdf)
+3. [Mixed Dimension Embeddings with Application to Memory-Efficient Recommendation Systems]()
+4. [Online Model Compression for Federated Learning with Large Models]()
+5. [UWC: Unit-Wise Calibration towards rapid network compression]()
 
 ## Quantization
 
@@ -20,6 +23,12 @@
 13. [SQuant: on-the-fly data-free quantization via Diagonal Hessian Approximation](https://github.com/vvchernov/LLM_info/blob/main/papers/compression/quantization/before_llm/SQuant.pdf) ([github](https://github.com/clevercool/SQuant))
 14. [RAPQ: Rescuing Accuracy for Power-of-Two Low-bit Post-training Quantization](https://github.com/vvchernov/LLM_info/blob/main/papers/compression/quantization/before_llm/RAPQ.pdf) ([github](https://github.com/BillAmihom/RAPQ))
 15. [SPIQ: Data-Free Per-Channel Static Input Quantization](https://github.com/vvchernov/LLM_info/blob/main/papers/compression/quantization/before_llm/SPIQ.pdf)
+16. [Memory-Driven Mixed Low Precision Quantization For Enabling Deep Network Inference On Microcontrollers]()
+17. [A High-Performance Adaptive Quantization Approach for Edge CNN Applications]()
+18. [Accelerating Inference and Language Model Fusion of Recurrent Neural Network Transducers via End-to-End 4-bit Quantization]()
+
+### 2019
+1. [Q-BERT: Hessian Based Ultra Low Precision Quantization of BERT]()
 
 ### 2020
 1. [Efficient 8-Bit Quantization of Transformer Neural Machine Language Translation Model](https://github.com/vvchernov/LLM_info/blob/main/papers/compression/quantization/efficient_8bit_quant.pdf)
@@ -28,11 +37,13 @@
 1. [BRECQ: pushing the limit of post-training quantization by block reconstruction](https://github.com/vvchernov/LLM_info/blob/main/papers/compression/quantization/BRECQ.pdf) ([github](https://github.com/yhhhli/BRECQ))
 2. [HAWQ-V3: dyadic neural network quantization](https://github.com/vvchernov/LLM_info/blob/main/papers/compression/quantization/HAWQ-v3.pdf) ([github](https://github.com/zhen-dong/hawq.git))
 3. [Understanding and Overcoming the Challenges of Efficient Transformer Quantization](https://github.com/vvchernov/LLM_info/blob/main/papers/compression/quantization/efficient_transformer_quant.pdf) ([github](https://github.com/qualcomm-ai-research/transformer-quantization))
+4. [I-BERT: Integer-only BERT Quantization]()
 
 ### 2022
 1. [ZeroQuant: efficient and affordable post-training quantization for large-scale transformers](https://github.com/vvchernov/LLM_info/blob/main/papers/compression/quantization/ZeroQuant.pdf) (implemented in [DeepSpeed](https://github.com/microsoft/DeepSpeed))
 2. [NuQMM: Quantized MatMul for efficient inference of large-scale generative language models](https://github.com/vvchernov/LLM_info/blob/main/papers/compression/quantization/NuQMM.pdf)
 3. bitsandbytes: [LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale](https://github.com/vvchernov/LLM_info/blob/main/papers/compression/quantization/llm_int8.pdf) ([github](https://github.com/bitsandbytes-foundation/bitsandbytes))
+4. [MKQ-BERT: Quantized BERT with 4 bits weights and activations]()
 
 ### 2023
 1. [SmoothQuant: accurate and efficient post-training quantization for large language models](https://github.com/vvchernov/LLM_info/blob/main/papers/compression/quantization/SmoothQuant.pdf) ([github](https://github.com/mit-han-lab/smoothquant))
