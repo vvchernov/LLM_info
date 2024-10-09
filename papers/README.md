@@ -25,8 +25,8 @@
 ### Transformer and attentions
 1. Transformers
 2. [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://github.com/vvchernov/LLM_info/blob/main/papers/common/flash_attn.pdf)
-*. [Train short, test long: attention with linear biases enables input length extrapolation]()
-*. [Self-attention does not need O(n^2) memory]()
+*. [Train short, test long: attention with linear biases enables input length extrapolation](https://github.com/vvchernov/LLM_info/blob/main/papers/common/input_length_extrapolation.pdf)
+*. [Self-attention does not need O(n^2) memory](https://github.com/vvchernov/LLM_info/blob/main/papers/common/self_attn_memory.pdf)
 
 ### Quantization
 1. [Understanding int4 quantization for transformer models: latency speedup, composability, and failure cases](https://github.com/vvchernov/LLM_info/blob/main/papers/common/Int4_quantization.pdf)
@@ -60,9 +60,9 @@
 9. [Analytical Characterization and Design Space Exploration for Optimization of CNNs](https://github.com/vvchernov/LLM_info/blob/main/papers/optimization/optimization_design_space_exploration.pdf)
 10. [Optimizing Inference Performance of Transformers on CPUs](https://github.com/vvchernov/LLM_info/blob/main/papers/optimization/cpu_inference_optimizing.pdf)
 11. [Multiplying Matrices Without Multiplying](https://github.com/vvchernov/LLM_info/blob/main/papers/optimization/matmul_without_multiplying.pdf)
-12. [IOOpt: Automatic Derivation of I/O Complexity Bounds for Affine Programs]()
-13. [Efficient convolution optimisation by composing micro-kernels]()
-14. [Discovering faster matrix multiplication algorithms with reinforcement learning]()
+12. [IOOpt: Automatic Derivation of I/O Complexity Bounds for Affine Programs](https://github.com/vvchernov/LLM_info/blob/main/papers/optimization/IOOpt.pdf)
+13. [Efficient convolution optimisation by composing micro-kernels](https://github.com/vvchernov/LLM_info/blob/main/papers/optimization/composing_micro-kernels.pdf)
+14. [Discovering faster matrix multiplication algorithms with reinforcement learning](https://github.com/vvchernov/LLM_info/blob/main/papers/optimization/discovering_faster_matmul.pdf)
 
 ## Compression
 The list of papers devoted to LLM (and not only) compression (especially quantization) can be found [here](https://github.com/vvchernov/LLM_info/blob/main/papers/compression/README.md)<br />
@@ -83,10 +83,10 @@ Also some brief resume of papers can be found there.
 3. bAbI: [Towards AI-complete Question Answering: a set of prerequisite toy tasks](https://github.com/vvchernov/LLM_info/blob/main/papers/benchmark/Accuracy/tools/bAbI.pdf) ([github](https://github.com/facebookarchive/bAbI-tasks))
 4. [oLMpics-On What Language Model Pre-training Captures](https://github.com/vvchernov/LLM_info/blob/main/papers/benchmark/Accuracy/tools/oLMpics.pdf) ([github](https://github.com/alontalmor/oLMpics))
 5. HANS: [Right for the wrong reasons: diagnosing syntactic heuristics in natural language inference](https://github.com/vvchernov/LLM_info/blob/main/papers/benchmark/Accuracy/tools/HANS.pdf) ([github](https://github.com/tommccoy1/hans))
-6. [LMFlow Benchmark: A Scalable Evaluation Paradigm for Large Language Models]() ([github](https://github.com/OptimalScale/LMFlow), [blog](https://blog.gopenai.com/lmflow-benchmark-an-automatic-evaluation-framework-for-open-source-llms-ef5c6f142418))
-7. [The GEM Benchmark: Natural Language Generation, its Evaluation and Metrics]() ([official site](https://gem-benchmark.com/))
+6. [LMFlow Benchmark: A Scalable Evaluation Paradigm for Large Language Models](https://github.com/vvchernov/LLM_info/blob/main/papers/benchmark/Accuracy/tools/lmflow.pdf) ([github](https://github.com/OptimalScale/LMFlow), [blog](https://blog.gopenai.com/lmflow-benchmark-an-automatic-evaluation-framework-for-open-source-llms-ef5c6f142418))
+7. [The GEM Benchmark: Natural Language Generation, its Evaluation and Metrics](https://github.com/vvchernov/LLM_info/blob/main/papers/benchmark/Accuracy/tools/GEM.pdf) ([official site](https://gem-benchmark.com/))
 8. NaturalInstructions
-9. [Super-NaturalInstructions: generalization via declarative instructions on 1600+ NLP Tasks]()
+9. [Super-NaturalInstructions: generalization via declarative instructions on 1600+ NLP Tasks](https://github.com/vvchernov/LLM_info/blob/main/papers/benchmark/Accuracy/tools/super_natural_instructions.pdf)
 *. [Beyond Perplexity: Multi-dimensional Safety Evaluation of LLM Compression](https://github.com/vvchernov/LLM_info/blob/main/papers/benchmark/Accuracy/tools/beyond_perplexity_safety_eval.pdf) ([github](https://github.com/zhichaoxu-shufe/beyond-perplexity-compression-safety-eval))
 *. [Language Model Evaluation Beyond Perplexity](https://github.com/vvchernov/LLM_info/blob/main/papers/benchmark/Accuracy/tools/eval_beyond_perplexity.pdf)
 
