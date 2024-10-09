@@ -95,6 +95,7 @@ Also some brief resume of papers can be found there.
 1. [Auditing large language models: a three‑layered approach](https://github.com/vvchernov/LLM_info/blob/main/papers/benchmark/others/llm_auditing.pdf)
 2. FACTOR: [Generating Benchmarks for Factuality Evaluation of Language Models](https://github.com/vvchernov/LLM_info/blob/main/papers/benchmark/others/factor.pdf) ([github](https://github.com/AI21Labs/factor))
 3. [Strength in Numbers: Estimating Confidence of Large Language Models by Prompt Agreement]() ([github](https://github.com/JHU-CLSP/Confidence-Estimation-TrustNLP2023))
+4. [Long-form factuality in large language models]()
 
 ## Training
 1. [Quantized Distributed Training of Large Models with Convergence Guarantees]()
@@ -103,8 +104,9 @@ Also some brief resume of papers can be found there.
 
 ## LLM technical documents
 1. [PaLM: Scaling Language Modeling with Pathways](https://github.com/vvchernov/LLM_info/blob/main/papers/llms/PaLM.pdf)
+2. [AraTrust: An Evaluation of Trustworthiness for LLMs in Arabic]()
 
-## Others (undistributed)
+## Others (not distributed)
 1. Shapiro-Wilk test: [An analysis of variance test for normality (complete samples)](https://github.com/vvchernov/LLM_info/blob/main/papers/others/shapiro_wilk_test.pdf)
 2. [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://github.com/vvchernov/LLM_info/blob/main/papers/others/u-net.pdf)
 3. [On-Device Machine Learning: An Algorithms and Learning Theory Perspective](https://github.com/vvchernov/LLM_info/blob/main/papers/others/on-device_ML.pdf)
@@ -115,3 +117,5 @@ Also some brief resume of papers can be found there.
 8. [Stacked LSTM Based Deep Recurrent Neural Network with Kalman Smoothing for Blood Glucose Prediction](https://github.com/vvchernov/LLM_info/blob/main/papers/others/LSTM_blood_glucose_prediction.pdf)
 9. [Collective Knowledge: organizing research projects as a database of reusable components and portable workflows with common APIs](https://github.com/vvchernov/LLM_info/blob/main/papers/others/CK.pdf) ([github](https://github.com/mlcommons/ck))
 10. [Solving challenging math word problems using GPT-4 Code interpreter with code-based self-verification](https://github.com/vvchernov/LLM_info/blob/main/papers/others/gpt4_code_interpreter.pdf)
+11. [AI-generated text boundary detection with RoFT]()
+12. [One-peace: exploring one general representation model toward unlimited modalities]()
