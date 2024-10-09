@@ -21,7 +21,7 @@
 5. [Automatic Model Selection with Large Language Models for Reasoning](https://github.com/vvchernov/LLM_info/blob/main/papers/common/prompt/automatic_model_selection.pdf) ([github](https://github.com/XuZhao0/Model-Selection-Reasoning))
 6. [Faithful Reasoning Using Large Language Models](https://github.com/vvchernov/LLM_info/blob/main/papers/common/prompt/faithful_reasoning.pdf)
 7. [Calibrate Before Use: Improving Few-Shot Performance of Language Models](https://github.com/vvchernov/LLM_info/blob/main/papers/common/prompt/calibrate_before_use.pdf)
-8. LMSI: [Large Language Models can Self-Improve]()
+8. LMSI: [Large Language Models can Self-Improve](https://github.com/vvchernov/LLM_info/blob/main/papers/common/prompt/LMSI.pdf)
 
 ### Transformer and attentions
 1. Transformers
@@ -94,17 +94,17 @@ Also some brief resume of papers can be found there.
 ## Other benchmarks
 1. [Auditing large language models: a three‑layered approach](https://github.com/vvchernov/LLM_info/blob/main/papers/benchmark/others/llm_auditing.pdf)
 2. FACTOR: [Generating Benchmarks for Factuality Evaluation of Language Models](https://github.com/vvchernov/LLM_info/blob/main/papers/benchmark/others/factor.pdf) ([github](https://github.com/AI21Labs/factor))
-3. [Strength in Numbers: Estimating Confidence of Large Language Models by Prompt Agreement]() ([github](https://github.com/JHU-CLSP/Confidence-Estimation-TrustNLP2023))
-4. [Long-form factuality in large language models]()
+3. [Strength in Numbers: Estimating Confidence of Large Language Models by Prompt Agreement](https://github.com/vvchernov/LLM_info/blob/main/papers/benchmark/others/confidence_estimation.pdf) ([github](https://github.com/JHU-CLSP/Confidence-Estimation-TrustNLP2023))
+4. [Long-form factuality in large language models](https://github.com/vvchernov/LLM_info/blob/main/papers/benchmark/others/SAFE.pdf)
 
 ## Training
-1. [Quantized Distributed Training of Large Models with Convergence Guarantees]()
-2. [QLoRA: Efficient Finetuning of Quantized LLMs]()
-3. [Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference]()
+1. [Quantized Distributed Training of Large Models with Convergence Guarantees](https://github.com/vvchernov/LLM_info/blob/main/papers/training/quantized_distributed_training.pdf)
+2. [QLoRA: Efficient Finetuning of Quantized LLMs](https://github.com/vvchernov/LLM_info/blob/main/papers/training/QLoRA.pdf)
+3. [Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference](https://github.com/vvchernov/LLM_info/blob/main/papers/training/quant_and_training.pdf)
 
 ## LLM technical documents
 1. [PaLM: Scaling Language Modeling with Pathways](https://github.com/vvchernov/LLM_info/blob/main/papers/llms/PaLM.pdf)
-2. [AraTrust: An Evaluation of Trustworthiness for LLMs in Arabic]()
+2. [AraTrust: An Evaluation of Trustworthiness for LLMs in Arabic](https://github.com/vvchernov/LLM_info/blob/main/papers/llms/AraTrust.pdf)
 
 ## Others (not distributed)
 1. Shapiro-Wilk test: [An analysis of variance test for normality (complete samples)](https://github.com/vvchernov/LLM_info/blob/main/papers/others/shapiro_wilk_test.pdf)
@@ -117,5 +117,5 @@ Also some brief resume of papers can be found there.
 8. [Stacked LSTM Based Deep Recurrent Neural Network with Kalman Smoothing for Blood Glucose Prediction](https://github.com/vvchernov/LLM_info/blob/main/papers/others/LSTM_blood_glucose_prediction.pdf)
 9. [Collective Knowledge: organizing research projects as a database of reusable components and portable workflows with common APIs](https://github.com/vvchernov/LLM_info/blob/main/papers/others/CK.pdf) ([github](https://github.com/mlcommons/ck))
 10. [Solving challenging math word problems using GPT-4 Code interpreter with code-based self-verification](https://github.com/vvchernov/LLM_info/blob/main/papers/others/gpt4_code_interpreter.pdf)
-11. [AI-generated text boundary detection with RoFT]()
-12. [One-peace: exploring one general representation model toward unlimited modalities]()
+11. [AI-generated text boundary detection with RoFT](https://github.com/vvchernov/LLM_info/blob/main/papers/others/RoFT.pdf)
+12. [One-peace: exploring one general representation model toward unlimited modalities](https://github.com/vvchernov/LLM_info/blob/main/papers/others/one-peace.pdf)
