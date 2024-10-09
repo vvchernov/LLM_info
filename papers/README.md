@@ -91,20 +91,20 @@ Also some brief resume of papers can be found there.
 *. [Language Model Evaluation Beyond Perplexity](https://github.com/vvchernov/LLM_info/blob/main/papers/benchmark/Accuracy/tools/eval_beyond_perplexity.pdf)
 
 ## Other benchmarks
-1. [Auditing large language models: a three‑layered approach]()
-2. FACTOR: [Generating Benchmarks for Factuality Evaluation of Language Models]() ([github](https://github.com/AI21Labs/factor))
+1. [Auditing large language models: a three‑layered approach](https://github.com/vvchernov/LLM_info/blob/main/papers/benchmark/others/llm_auditing.pdf)
+2. FACTOR: [Generating Benchmarks for Factuality Evaluation of Language Models](https://github.com/vvchernov/LLM_info/blob/main/papers/benchmark/others/factor.pdf) ([github](https://github.com/AI21Labs/factor))
 
 ## LLM technical documents
 1. [PaLM: Scaling Language Modeling with Pathways](https://github.com/vvchernov/LLM_info/blob/main/papers/llms/PaLM.pdf)
 
 ## Others (undistributed)
-1. Shapiro-Wilk test: [An analysis of variance test for normality (complete samples)]()
-2. [U-Net: Convolutional Networks for Biomedical Image Segmentation]()
-3. [On-Device Machine Learning: An Algorithms and Learning Theory Perspective]()
-4. [Enabling On-Device CNN Training by Self-Supervised Instance Filtering and Error Map Pruning]()
-5. [XGBoost: A Scalable Tree Boosting System]()
-6. [Long Short-Term Memory based recurrent neural network architectures for large vocabulary speech recognition]()
-7. [Stacked Bidirectional and Unidirectional LSTM Recurrent Neural Network for Network-wide Traffic Speed Prediction]()
-8. [Stacked LSTM Based Deep Recurrent Neural Network with Kalman Smoothing for Blood Glucose Prediction]()
-9. [Collective Knowledge: organizing research projects as a database of reusable components and portable workflows with common APIs]() ([github](https://github.com/mlcommons/ck))
-10. [Solving challenging math word problems using GPT-4 Code interpreter with code-based self-verification]()
+1. Shapiro-Wilk test: [An analysis of variance test for normality (complete samples)](https://github.com/vvchernov/LLM_info/blob/main/papers/others/shapiro_wilk_test.pdf)
+2. [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://github.com/vvchernov/LLM_info/blob/main/papers/others/u-net.pdf)
+3. [On-Device Machine Learning: An Algorithms and Learning Theory Perspective](https://github.com/vvchernov/LLM_info/blob/main/papers/others/on-device_ML.pdf)
+4. [Enabling On-Device CNN Training by Self-Supervised Instance Filtering and Error Map Pruning](https://github.com/vvchernov/LLM_info/blob/main/papers/others/on-device_CNN_training.pdf)
+5. [XGBoost: A Scalable Tree Boosting System](https://github.com/vvchernov/LLM_info/blob/main/papers/others/xgboost.pdf)
+6. [Long Short-Term Memory based recurrent neural network architectures for large vocabulary speech recognition](https://github.com/vvchernov/LLM_info/blob/main/papers/others/LSTM_ASR.pdf)
+7. [Stacked Bidirectional and Unidirectional LSTM Recurrent Neural Network for Network-wide Traffic Speed Prediction](https://github.com/vvchernov/LLM_info/blob/main/papers/others/LSTM_traffic_speed_prediction.pdf)
+8. [Stacked LSTM Based Deep Recurrent Neural Network with Kalman Smoothing for Blood Glucose Prediction](https://github.com/vvchernov/LLM_info/blob/main/papers/others/LSTM_blood_glucose_prediction.pdf)
+9. [Collective Knowledge: organizing research projects as a database of reusable components and portable workflows with common APIs](https://github.com/vvchernov/LLM_info/blob/main/papers/others/CK.pdf) ([github](https://github.com/mlcommons/ck))
+10. [Solving challenging math word problems using GPT-4 Code interpreter with code-based self-verification](https://github.com/vvchernov/LLM_info/blob/main/papers/others/gpt4_code_interpreter.pdf)
