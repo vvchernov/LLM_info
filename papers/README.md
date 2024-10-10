@@ -81,8 +81,8 @@ Also some brief resume of papers can be found there.
 1. MMLU: [Measuring Massive Multitask language Understanding](https://github.com/vvchernov/LLM_info/blob/main/papers/benchmark/Accuracy/datasets/MMLU.pdf): MMLU
 2. BIG-bench (BB): [Beyond the Imitation Game: quantifying and extrapolating the capapbilities of language models](https://github.com/vvchernov/LLM_info/blob/main/papers/benchmark/Accuracy/datasets/BigBench.pdf)
 3. BIG-bench Hard (BBH): [Challenging BIG-Bench tasks and whether chain-of-thoughts can solve them](https://github.com/vvchernov/LLM_info/blob/main/papers/benchmark/Accuracy/datasets/BigBenchHard.pdf)
-4. GSM8K: [Training Verifiers to Solve Math Word Problems]()
-5. [TriviaQA: A Large Scale Distantly Supervised Challenge Dataset for Reading Comprehension]()
+4. GSM8K: [Training Verifiers to Solve Math Word Problems](https://github.com/vvchernov/LLM_info/blob/main/papers/benchmark/Accuracy/datasets/gsm8k.pdf)
+5. [TriviaQA: A Large Scale Distantly Supervised Challenge Dataset for Reading Comprehension](https://github.com/vvchernov/LLM_info/blob/main/papers/benchmark/Accuracy/datasets/TriviaQA.pdf)
 6. [RussianSuperGLUE: A Russian Language Understanding Evaluation Benchmark](https://github.com/vvchernov/LLM_info/blob/main/papers/benchmark/Accuracy/datasets/russian_super_glue.pdf)
 
 ### Tools
@@ -100,11 +100,11 @@ Also some brief resume of papers can be found there.
 
 ## Evaluation of code generation
 1. [Project CodeNet](https://github.com/IBM/Project_CodeNet): a provider of the *AI-for-Code research* community with a large scale, diverse, and high quality curated dataset to drive innovation in AI techniques
-2. [CoderEval: A Benchmark of Pragmatic Code Generation with Generative Pre-trained Models]() ([github](https://github.com/CoderEval/CoderEval))
+2. [CoderEval: A Benchmark of Pragmatic Code Generation with Generative Pre-trained Models](https://github.com/vvchernov/LLM_info/blob/main/papers/benchmark/code/coder_eval.pdf) ([github](https://github.com/CoderEval/CoderEval))
 3. [MBPP](https://github.com/google-research/google-research/tree/master/mbpp): Mostly Basic Python Problems Dataset
 4. [Measuring Coding Challenge Competence With APPS](https://github.com/hendrycks/apps)
-5. [DS-1000: A Natural and Reliable Benchmark for Data Science Code Generation]() ([github](https://github.com/xlang-ai/DS-1000))
-6. [AixBench: A Code Generation Benchmark Dataset]() ([github](https://github.com/aixcoder-plugin/nl2code-dataset))
+5. [DS-1000: A Natural and Reliable Benchmark for Data Science Code Generation](https://github.com/vvchernov/LLM_info/blob/main/papers/benchmark/code/ds-1000.pdf) ([github](https://github.com/xlang-ai/DS-1000))
+6. [AixBench: A Code Generation Benchmark Dataset](https://github.com/vvchernov/LLM_info/blob/main/papers/benchmark/code/AixBench.pdf) ([github](https://github.com/aixcoder-plugin/nl2code-dataset))
 7. [A Gentle Introduction to Code Generation Evaluation](https://towardsdatascience.com/a-gentle-introduction-to-code-generation-evaluation-c8dff8c3d19a)
 
 ## Other benchmarks
