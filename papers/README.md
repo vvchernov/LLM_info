@@ -72,11 +72,18 @@ Also some brief resume of papers can be found there.
 ## Performance benchmark
 
 ## Accuracy benchmark
+### Leaderboards
+1. [Open LLM leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard) from Hugging Face
+2. [TriviaQA leaderbord](https://paperswithcode.com/sota/question-answering-on-triviaqa)
+3. [GSM8K leaderboard](https://paperswithcode.com/sota/arithmetic-reasoning-on-gsm8k)
+
 ### Datasets
 1. MMLU: [Measuring Massive Multitask language Understanding](https://github.com/vvchernov/LLM_info/blob/main/papers/benchmark/Accuracy/datasets/MMLU.pdf): MMLU
 2. BIG-bench (BB): [Beyond the Imitation Game: quantifying and extrapolating the capapbilities of language models](https://github.com/vvchernov/LLM_info/blob/main/papers/benchmark/Accuracy/datasets/BigBench.pdf)
 3. BIG-bench Hard (BBH): [Challenging BIG-Bench tasks and whether chain-of-thoughts can solve them](https://github.com/vvchernov/LLM_info/blob/main/papers/benchmark/Accuracy/datasets/BigBenchHard.pdf)
-*. [RussianSuperGLUE: A Russian Language Understanding Evaluation Benchmark](https://github.com/vvchernov/LLM_info/blob/main/papers/benchmark/Accuracy/datasets/russian_super_glue.pdf)
+4. GSM8K: [Training Verifiers to Solve Math Word Problems]()
+5. [TriviaQA: A Large Scale Distantly Supervised Challenge Dataset for Reading Comprehension]()
+6. [RussianSuperGLUE: A Russian Language Understanding Evaluation Benchmark](https://github.com/vvchernov/LLM_info/blob/main/papers/benchmark/Accuracy/datasets/russian_super_glue.pdf)
 
 ### Tools
 1. HELM: [Holistic Evaluation of Language Models](https://github.com/vvchernov/LLM_info/blob/main/papers/benchmark/Accuracy/HELM.pdf) ([github](https://github.com/stanford-crfm/helm))
@@ -88,8 +95,17 @@ Also some brief resume of papers can be found there.
 7. [The GEM Benchmark: Natural Language Generation, its Evaluation and Metrics](https://github.com/vvchernov/LLM_info/blob/main/papers/benchmark/Accuracy/tools/GEM.pdf) ([official site](https://gem-benchmark.com/))
 8. NaturalInstructions
 9. [Super-NaturalInstructions: generalization via declarative instructions on 1600+ NLP Tasks](https://github.com/vvchernov/LLM_info/blob/main/papers/benchmark/Accuracy/tools/super_natural_instructions.pdf)
-*. [Beyond Perplexity: Multi-dimensional Safety Evaluation of LLM Compression](https://github.com/vvchernov/LLM_info/blob/main/papers/benchmark/Accuracy/tools/beyond_perplexity_safety_eval.pdf) ([github](https://github.com/zhichaoxu-shufe/beyond-perplexity-compression-safety-eval))
-*. [Language Model Evaluation Beyond Perplexity](https://github.com/vvchernov/LLM_info/blob/main/papers/benchmark/Accuracy/tools/eval_beyond_perplexity.pdf)
+10. [Beyond Perplexity: Multi-dimensional Safety Evaluation of LLM Compression](https://github.com/vvchernov/LLM_info/blob/main/papers/benchmark/Accuracy/tools/beyond_perplexity_safety_eval.pdf) ([github](https://github.com/zhichaoxu-shufe/beyond-perplexity-compression-safety-eval))
+11. [Language Model Evaluation Beyond Perplexity](https://github.com/vvchernov/LLM_info/blob/main/papers/benchmark/Accuracy/tools/eval_beyond_perplexity.pdf)
+
+## Evaluation of code generation
+1. [Project CodeNet](https://github.com/IBM/Project_CodeNet): a provider of the *AI-for-Code research* community with a large scale, diverse, and high quality curated dataset to drive innovation in AI techniques
+2. [CoderEval: A Benchmark of Pragmatic Code Generation with Generative Pre-trained Models]() ([github](https://github.com/CoderEval/CoderEval))
+3. [MBPP](https://github.com/google-research/google-research/tree/master/mbpp): Mostly Basic Python Problems Dataset
+4. [Measuring Coding Challenge Competence With APPS](https://github.com/hendrycks/apps)
+5. [DS-1000: A Natural and Reliable Benchmark for Data Science Code Generation]() ([github](https://github.com/xlang-ai/DS-1000))
+6. [AixBench: A Code Generation Benchmark Dataset]() ([github](https://github.com/aixcoder-plugin/nl2code-dataset))
+7. [A Gentle Introduction to Code Generation Evaluation](https://towardsdatascience.com/a-gentle-introduction-to-code-generation-evaluation-c8dff8c3d19a)
 
 ## Other benchmarks
 1. [Auditing large language models: a three‑layered approach](https://github.com/vvchernov/LLM_info/blob/main/papers/benchmark/others/llm_auditing.pdf)
