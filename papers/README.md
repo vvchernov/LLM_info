@@ -64,6 +64,7 @@
 12. [IOOpt: Automatic Derivation of I/O Complexity Bounds for Affine Programs](https://github.com/vvchernov/LLM_info/blob/main/papers/optimization/IOOpt.pdf)
 13. [Efficient convolution optimisation by composing micro-kernels](https://github.com/vvchernov/LLM_info/blob/main/papers/optimization/composing_micro-kernels.pdf)
 14. [Discovering faster matrix multiplication algorithms with reinforcement learning](https://github.com/vvchernov/LLM_info/blob/main/papers/optimization/discovering_faster_matmul.pdf)
+15. [Efficient softmax approximation for GPUs](https://github.com/vvchernov/LLM_info/blob/main/papers/optimization/gpu_softmax_approximation.pdf) ([github](https://github.com/facebookresearch/adaptive-softmax))
 
 ## Compression
 The list of papers devoted to LLM (and not only) compression (especially quantization) can be found [here](https://github.com/vvchernov/LLM_info/blob/main/papers/compression/README.md)<br />
