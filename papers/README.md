@@ -41,6 +41,7 @@
  - [Speculative Decoding with Big Little Decoder](https://github.com/vvchernov/LLM_info/blob/main/papers/optimization/speculative_decoding/speculative_decoding_big_little_decoder.pdf) ([github](https://github.com/kssteven418/BigLittleDecoder))
  - [LayerSkip: enabling early exit inference and self-speculative decoding](https://github.com/vvchernov/LLM_info/blob/main/papers/optimization/speculative_decoding/speculative_decoding_layer_skip.pdf)
  - [Multi-Candidate Speculative Decoding](https://github.com/vvchernov/LLM_info/blob/main/papers/optimization/speculative_decoding/speculative_decoding_multi_candidate.pdf) ([github](https://github.com/NJUNLP/MCSD))
+ - [REST: Retrieval-Based Speculative Decoding](https://github.com/vvchernov/LLM_info/blob/main/papers/optimization/speculative_decoding/rest.pdf) ([github](https://github.com/FasterDecoding/REST))
 2. TVM ([github](https://github.com/apache/tvm)):
  - [TVM: An Automated End-to-End Optimizing Compiler for Deep Learning](https://github.com/vvchernov/LLM_info/blob/main/papers/optimization/tvm/tvm.pdf)
  - [Learning to Optimize Tensor Programs](https://github.com/vvchernov/LLM_info/blob/main/papers/optimization/tvm/learning_to_optimize.pdf)
